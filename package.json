@@ -1,7 +1,7 @@
 {
   "name": "@dlguswo333/react-playground",
   "version": "1.0.0",
-  "description": "react-playground",
+  "description": "react-playground for testing and playing around React.",
   "type": "module",
   "main": "vite.config.js",
   "scripts": {
