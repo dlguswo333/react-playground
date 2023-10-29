@@ -13,6 +13,7 @@
   "author": "dlguswo333 <dlguswo002@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/react": "^18.2.33",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@vitejs/plugin-react": "^4.0.4",
     "eslint": "^8.48.0",
