@@ -1,0 +1,15 @@
+{
+    "buildOptions": {
+        "incremental": true,
+    },
+    "compilerOptions": {
+        "module": "ES2020",
+        "moduleResolution": "Bundler",
+        "jsx": "react-jsx",
+        "lib": ["DOM", "ES2020"]
+    },
+    "include": ["src/**/*.tsx"],
+    "exclude": [
+        "node_modules"
+    ]
+}
