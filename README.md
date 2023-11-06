@@ -2,6 +2,8 @@
 This repository is for playing around React.
 Therefore minimal, lightweight, and not production-ready.
 
+If you want typescript, switch to `typescript` branch.
+
 # Project Structure
 ```
 src : Source code directory.
