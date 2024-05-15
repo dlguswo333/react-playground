@@ -13,7 +13,8 @@
   "author": "dlguswo333 <dlguswo002@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "^18.2.33",
+    "@types/react": "npm:types-react@beta",
+    "@types/react-dom": "npm:types-react-dom@beta",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@vitejs/plugin-react": "^4.0.4",
     "eslint": "^8.48.0",
@@ -22,7 +23,11 @@
     "vite": "^4.5.3"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^19.0.0-beta-26f2496093-20240514",
+    "react-dom": "^19.0.0-beta-26f2496093-20240514"
+  },
+  "overrides": {
+    "@types/react": "npm:types-react@beta",
+    "@types/react-dom": "npm:types-react-dom@beta"
   }
 }
